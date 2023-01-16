@@ -16,5 +16,7 @@ node_modules
 tmp
 .clasprc.json
 .clasp.json
+.claspignore
+
 .vscode
 .vscode/*
