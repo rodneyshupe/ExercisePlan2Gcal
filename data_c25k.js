@@ -395,4 +395,4 @@ const events_c25k = [{
         "dateOffset": 83,
         "duration": 30
     }
-]
+];

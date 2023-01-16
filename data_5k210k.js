@@ -163,4 +163,4 @@ const events_c5k210k = [
         "summary": "Sun Run Race Day",
         "dateOffset": 54
     }
-]
+];
